@@ -3,6 +3,7 @@
 //
 //  Created by Jayce Sagvold on 11/19/22.
 //
+// This is in beta stages
 
 import SwiftUI
 struct DarkMode: View {
