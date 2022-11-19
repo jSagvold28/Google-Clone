@@ -5,3 +5,5 @@
 ## If incounterd bug:
 
 ## Create. a issue under the Issues tab.
+
+### When downloading the images and putting thme into Xcode make sure that you are putting the right Google icon!
